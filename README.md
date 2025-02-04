@@ -57,3 +57,8 @@ The system is built using **SQL** and contains the following key tables:
 ✅ **Travel Agencies** – Automates and manages ticket booking.  
 ✅ **Online Travel Platforms** – Can be integrated with mobile or web applications.  
 ✅ **Corporate Travel Solutions** – Helps businesses manage employee travel efficiently.  
+
+## License  
+This project is licensed under the **MIT License**.
+
+
